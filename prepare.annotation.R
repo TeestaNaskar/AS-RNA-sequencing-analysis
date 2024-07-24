@@ -1,4 +1,4 @@
-#after having the sorted BAM files for further analysis.  We performed the exon annotation steps
+#after having the sorted BAM files for further analysis. We performed the exon annotation steps
 
 # 2. Preparing Exon annotations
 #this is a R script
